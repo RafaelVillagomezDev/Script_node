@@ -1,196 +1,196 @@
-Country ;Density
-Afghanistan ;59.6274
-Albania ;105.0291
-Algeria ;18.4113
-Andorra ;164.3936
-Angola ;26.3626
-Antigua and Barbuda ;222.5659
-Argentina ;16.5148
-Armenia ;104.083
-Australia ;3.3193
-Austria ;109.289
-Azerbaijan ;122.6642
-Bahamas ;39.2851
-Bahrain ;2238.9145
-Bangladesh ;1265.1869
-Barbados ;668.314
-Belarus ;46.569
-Belgium ;382.7484
-Belize ;17.4322
-Benin ;107.5133
-Bhutan ;20.2431
-Bolivia ;10.7754
-Bosnia and Herzegovina ;64.3298
-Botswana ;4.1495
-Brazil ;25.4314
-Brunei ;83.0131
-Bulgaria ;64.0056
-Burkina Faso ;76.4009
-Burundi ;463.0368
-Côte ;Density
-Cabo ;Density
-Cambodia ;94.7143
-Cameroon ;56.1568
-Canada ;4.1504
-Central African Republic ;7.7527
-Chad ;13.0447
-Chile ;25.71
-China ;153.3118
-Colombia ;45.8611
-Comoros ;467.2762
-Congo (Congo-Brazzaville) ;16.1584
-Costa Rica ;99.7673
-Croatia ;73.3607
-Cuba ;106.4132
-Cyprus ;130.6666
-Czechia (Czech Republic) ;138.6455
-Democratic Republic of the Congo ;39.5057
-Denmark ;136.5119
-Djibouti ;42.623
-Dominica ;95.9813
-Dominican Republic ;224.5014
-Ecuador ;71.0382
-Egypt ;102.8022
-El Salvador ;313.0408
-Equatorial Guinea ;50.0173
-Eritrea ;35.1131
-Estonia ;31.2936
-Eswatini (fmr. "Swaziland") ;67.4514
-Ethiopia ;114.9636
-Fiji ;49.0665
-Finland ;18.2326
-France ;119.2086
-Gabon ;8660.4436
-Gambia ;238.8012
-Georgia ;57.4063
-Germany ;240.3716
-Ghana ;136.5603
-Greece ;80.8616
-Grenada ;330.95
-Guatemala ;167.1852
-Guinea ;53.4462
-Guinea-Bissau ;69.9858
-Guyana ;4013.0204
-Haiti ;413.7347
+Country;Density
+Bahrain;2238.9145
+Bangladesh;1265.1869
+Barbados;668.314
+Comoros;467.2762
+Burundi;463.0368
+Belgium;382.7484
+Antigua and Barbuda;222.5659
+Andorra;164.3936
+China;153.3118
+Czechia (Czech Republic);138.6455
+Denmark;136.5119
+Cyprus;130.6666
+Azerbaijan;122.6642
+Austria;109.289
+Benin;107.5133
+Cuba;106.4132
+Albania;105.0291
+Armenia;104.083
+Costa Rica;99.7673
+Cambodia;94.7143
+Brunei;83.0131
+Burkina Faso;76.4009
+Croatia;73.3607
+Bosnia and Herzegovina;64.3298
+Bulgaria;64.0056
+Afghanistan;59.6274
+Cameroon;56.1568
+Belarus;46.569
+Colombia;45.8611
+Djibouti;42.623
+Democratic Republic of the Congo;39.5057
+Bahamas;39.2851
+Angola;26.3626
+Chile;25.71
+Brazil;25.4314
+Bhutan;20.2431
+Algeria;18.4113
+Belize;17.4322
+Argentina;16.5148
+Congo (Congo-Brazzaville);16.1584
+Chad;13.0447
+Bolivia;10.7754
+Central African Republic;7.7527
+Canada;4.1504
+Botswana;4.1495
+Australia;3.3193
+Côte;Density
+Cabo;Density
+Gabon;8660.4436
+Kazakhstan;6956.9126
+Guyana;4013.0204
+Iceland;3412.43
+Lebanon;667.1989
+India;464.1494
+Haiti;413.7347
+Israel;399.9785
+Japan;346.9338
+Grenada;330.95
+El Salvador;313.0408
+Jamaica;273.4226
+Germany;240.3716
+Kuwait;239.6504
+Gambia;238.8012
+Dominican Republic;224.5014
+Italy;205.5546
+Guatemala;167.1852
+Indonesia;150.9871
+Kiribati;147.4679
+Ghana;136.5603
+France;119.2086
+Ethiopia;114.9636
+Jordan;114.926
+Hungary;106.7088
+Egypt;102.8022
+Dominica;95.9813
+Kenya;94.4782
+Iraq;92.6103
+Honduras;88.5209
+Greece;80.8616
+Ireland;71.6764
+Ecuador;71.0382
+Lesotho;70.5616
+Guinea-Bissau;69.9858
+Eswatini (fmr. "Swaziland");67.4514
+Georgia;57.4063
+Guinea;53.4462
+Liberia;52.5091
+Iran;51.5753
+Equatorial Guinea;50.0173
+Fiji;49.0665
+Eritrea;35.1131
+Kyrgyzstan;34.0156
+Laos;31.5232
+Estonia;31.2936
+Latvia;30.3247
+Finland;18.2326
 Holy See 8;Density
-Honduras ;88.5209
-Hungary ;106.7088
-Iceland ;3412.43
-India ;464.1494
-Indonesia ;150.9871
-Iran ;51.5753
-Iraq ;92.6103
-Ireland ;71.6764
-Israel ;399.9785
-Italy ;205.5546
-Jamaica ;273.4226
-Japan ;346.9338
-Jordan ;114.926
-Kazakhstan ;6956.9126
-Kenya ;94.4782
-Kiribati ;147.4679
-Kuwait ;239.6504
-Kyrgyzstan ;34.0156
-Laos ;31.5232
-Latvia ;30.3247
-Lebanon ;667.1989
-Lesotho ;70.5616
-Liberia ;52.5091
-Libya ;3906.3627
-Liechtenstein ;238.3
-Lithuania ;43.4357
-Luxembourg ;241.6903
-Madagascar ;47.5958
-Malawi ;202.9057
-Malaysia ;98.5116
-Maldives 540544 ;300
-Mali ;16.5965
-Malta 441543 ;320
-Marshall Islands ;328.8333
-Mauritania ;4514.2311
-Mauritius ;626.4867
-Mexico ;66.3251
-Micronesia ;784.1629
-Moldova ;122.7995
-Monaco 39242 ;0.0385
-Mongolia ;2110.9401
-Montenegro ;46.6964
-Morocco ;82.7035
-Mozambique ;39.746
-Myanmar (formerly Burma) ;83.2858
-Namibia ;3087.3694
-Nauru ;541.2
-Nepal ;203.2564
-Netherlands ;508.1516
-New Zealand ;18.3139
-Nicaragua ;55.0486
-Niger ;19.11
-Nigeria ;226.3355
-North Korea ;214.092
-North Macedonia ;82.608
-Norway ;14.8418
-Oman ;16.4996
-Pakistan ;286.5457
-Palau ;39.3348
-Palestine State ;847.411
-Panama ;58.041
-Papua New Guinea ;19.7567
-Paraguay ;17.9525
-Peru ;25.7593
-Philippines ;367.5121
-Poland ;123.5888
-Portugal ;111.3299
-Qatar ;248.1527
-Romania ;83.5804
-Russia ;8911.484
-Rwanda ;525.019
-Saint Kitts and Nevis ;204.6115
-Saint Lucia ;301.0279
-Saint Vincent and the Grenadines ;284.4615
-Samoa ;70.111
-San Marino ;565.5167
-Sao Tome and Principe ;228.2906
-Saudi Arabia ;16.1948
-Senegal ;86.9679
-Serbia ;99.9013
-Seychelles ;213.7978
-Sierra Leone ;110.5151
-Singapore 5850342 ;87.5
-Slovakia ;113.5344
-Slovenia ;103.2243
-Solomon Islands ;24.5403
-Somalia ;25.3343
-South Africa ;48.8906
-South Korea ;527.298
-South Sudan ;18.3218
-Spain ;93.7345
-Sri Lanka ;341.4647
-Sudan ;24.8431
-Suriname ;3760.4615
-Sweden ;24.6119
-Switzerland ;219.0156
-Syria ;95.3039
-Tajikistan ;68.1455
-Tanzania ;67.4353
-Thailand ;136.6243
-Timor-Leste ;88.6648
-Togo ;152.2104
-Tonga ;146.7986
-Trinidad and Tobago ;272.8047
-Tunisia ;76.0725
-Turkey ;109.5839
-Turkmenistan ;12.8343
-Tuvalu ;393.0667
-Uganda ;228.9225
-Ukraine ;75.4915
-United Arab Emirates ;118.3062
-United Kingdom ;280.6019
-United States of America ;36.1854
-Uruguay ;19.8476
-Uzbekistan ;78.677
-Vanuatu ;25.1965
-Venezuela ;32.2385
-Vietnam ;313.9245
-Yemen ;56.4918
-Zambia ;24.7299
-Zimbabwe ;38.4204
+Russia;8911.484
+Mauritania;4514.2311
+Libya;3906.3627
+Suriname;3760.4615
+Namibia;3087.3694
+Mongolia;2110.9401
+Palestine State;847.411
+Micronesia;784.1629
+Mauritius;626.4867
+San Marino;565.5167
+Nauru;541.2
+South Korea;527.298
+Rwanda;525.019
+Netherlands;508.1516
+Tuvalu;393.0667
+Philippines;367.5121
+Sri Lanka;341.4647
+Marshall Islands;328.8333
+Malta 441543;320
+Vietnam;313.9245
+Saint Lucia;301.0279
+Maldives 540544;300
+Pakistan;286.5457
+Saint Vincent and the Grenadines;284.4615
+United Kingdom;280.6019
+Trinidad and Tobago;272.8047
+Qatar;248.1527
+Luxembourg;241.6903
+Liechtenstein;238.3
+Uganda;228.9225
+Sao Tome and Principe;228.2906
+Nigeria;226.3355
+Switzerland;219.0156
+North Korea;214.092
+Seychelles;213.7978
+Saint Kitts and Nevis;204.6115
+Nepal;203.2564
+Malawi;202.9057
+Togo;152.2104
+Tonga;146.7986
+Thailand;136.6243
+Poland;123.5888
+Moldova;122.7995
+United Arab Emirates;118.3062
+Slovakia;113.5344
+Portugal;111.3299
+Sierra Leone;110.5151
+Turkey;109.5839
+Slovenia;103.2243
+Serbia;99.9013
+Malaysia;98.5116
+Syria;95.3039
+Spain;93.7345
+Timor-Leste;88.6648
+Singapore 5850342;87.5
+Senegal;86.9679
+Romania;83.5804
+Myanmar (formerly Burma);83.2858
+Morocco;82.7035
+North Macedonia;82.608
+Uzbekistan;78.677
+Tunisia;76.0725
+Ukraine;75.4915
+Samoa;70.111
+Tajikistan;68.1455
+Tanzania;67.4353
+Mexico;66.3251
+Panama;58.041
+Yemen;56.4918
+Nicaragua;55.0486
+South Africa;48.8906
+Madagascar;47.5958
+Montenegro;46.6964
+Lithuania;43.4357
+Mozambique;39.746
+Palau;39.3348
+Zimbabwe;38.4204
+United States of America;36.1854
+Venezuela;32.2385
+Peru;25.7593
+Somalia;25.3343
+Vanuatu;25.1965
+Sudan;24.8431
+Zambia;24.7299
+Sweden;24.6119
+Solomon Islands;24.5403
+Uruguay;19.8476
+Papua New Guinea;19.7567
+Niger;19.11
+South Sudan;18.3218
+New Zealand;18.3139
+Paraguay;17.9525
+Mali;16.5965
+Oman;16.4996
+Saudi Arabia;16.1948
+Norway;14.8418
+Turkmenistan;12.8343
+Monaco 39242;0.0385

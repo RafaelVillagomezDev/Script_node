@@ -16,11 +16,13 @@ readStream
       const area = lineDot[lineDot.length - 1]
       const country = newLine.substring(0, newLine.indexOf(population))
       if (!isNaN(parseInt(population)) && !isNaN(parseInt(area))) {
-        var density = Number((parseInt(population) / parseInt(area)).toFixed(4))
+        var density = Number(
+          (parseInt(population) / parseInt(area)).toFixed(4).trim(),
+        )
       }
 
       var obj = {
-        country: country,
+        country: country.trim(),
         density: density || 'Density',
       }
 
@@ -29,6 +31,13 @@ readStream
 
     let csv = ''
 
+    // console.log(Array.isArray(textoReturn))
+
+    textoReturn.sort((a, b) => {
+      return a.density > b.density ? -1 : a.density < b.density ? 1 : 0
+    })
+
+    //Pinto meto datos
     for (var i = 0; i < textoReturn.length; i++) {
       csv += textoReturn[i].country + ';' + textoReturn[i].density + '\n'
     }

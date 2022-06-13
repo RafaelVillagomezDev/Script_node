@@ -1,0 +1,24 @@
+{
+  "name": "script_node",
+  "version": "1.0.0",
+  "description": "Creacion fichero en csv",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelVillagomezDev/Script_node.git"
+  },
+  "author": "Rafa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaelVillagomezDev/Script_node/issues"
+  },
+  "homepage": "https://github.com/RafaelVillagomezDev/Script_node#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
